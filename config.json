@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervrocess",
+        "uuid": 29953750,
+        "checksum": "2yqrjc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
